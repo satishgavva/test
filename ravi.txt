@@ -1,2 +1,3 @@
 welcome to git
 where are you?
+i'm fine
